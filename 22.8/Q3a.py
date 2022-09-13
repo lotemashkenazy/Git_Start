@@ -1,0 +1,5 @@
+print("first-")
+x= input()
+print("second-")
+y= input()
+print(x==y)
